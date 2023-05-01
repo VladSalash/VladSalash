@@ -1,7 +1,7 @@
 
 #  Hey Everyone!👋
 
-## My name's Vlad and I'm Frontend Developer
+## My name is Vlad and I'm Frontend Developer
 
 
 ## ⚡ Technologies
