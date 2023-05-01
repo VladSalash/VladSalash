@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Vlad
+
+I'm Frontend Developer
+
 <!--
 **VladSalash/VladSalash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
